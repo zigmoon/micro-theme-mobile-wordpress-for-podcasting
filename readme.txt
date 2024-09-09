@@ -2,24 +2,24 @@
 
 
 
-1 install wordpress.org (last version)
+1 Install wordpress.org (last version)
 https://wordpress.org/download/
 
 
-2 install plugin: Seriously Simple Podcasting
+2 Install plugin: Seriously Simple Podcasting
 https://fr.wordpress.org/plugins/seriously-simple-podcasting/
 
 
-3 install test content in your wordpress: 
+3 Install test content in your wordpress: 
 https://zigmoon.com/podinvader.WordPress.xml
 
 
-4 GO TO "Settting" 
+4 Go on your Worpdress "Settting":
 READ change first page "all articles"
 
 
 5 install theme: 
-micro-wp-theme-podcasting-block
+Download on github micro-wp-theme-podcasting-block.zip
 
 
 
