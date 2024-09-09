@@ -24,7 +24,8 @@ Download directly on Github > micro-wp-theme-podcasting-block.zip
 
 
 
-== m ==
+== micro-theme-mobile-wordpress-for-podcasting
+ ==
 
 Contributors: zigmoon & clemb
 Requires at least: 6.0
@@ -47,8 +48,11 @@ Micro mobile first theme, present your profile, bio, CV as well as your social n
 
 == Copyright ==
 
-m WordPress Theme, (C) 2024 zigmoon & clemb
-m is distributed under the terms of the GNU GPL.
+micro-theme-mobile-wordpress-for-podcasting
+ WordPress Theme, (C) 2024 zigmoon & clemb
+
+micro-theme-mobile-wordpress-for-podcasting
+ is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
