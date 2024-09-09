@@ -1,6 +1,4 @@
-micro-wp-theme-podcasting-block
-Public
-Mobile First Wordpress Theme for Podcaster (Gutenberg Block Editor)
+#Mobile First Wordpress Theme for Podcaster (Gutenberg Block Editor)
 
 
 
