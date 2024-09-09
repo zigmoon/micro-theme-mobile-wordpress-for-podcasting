@@ -1,7 +1,7 @@
-#Mobile First Wordpress Theme for Podcaster (Gutenberg Block Editor)
+Mobile First Wordpress Theme for Podcaster (Gutenberg Block Editor)
 
 
-### 1 Install wordpress.org (last version)
+1 Install wordpress.org (last version)
 https://wordpress.org/download/
 
 
@@ -24,8 +24,7 @@ Download directly on Github > micro-wp-theme-podcasting-block.zip
 
 
 
-== micro-theme-mobile-wordpress-for-podcasting
- ==
+== micro-theme-mobile-wordpress-for-podcasting ==
 
 Contributors: zigmoon & clemb
 Requires at least: 6.0
