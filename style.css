@@ -1,0 +1,28 @@
+/*
+Theme Name: m
+Theme URI: 
+Author: zigmoon & clemb
+Author URI: 
+Description: Micro mobile first theme, present your profile, bio, CV as well as your social networks, as well as a blogging section.
+Requires at least: 6.0
+Tested up to: 6.6
+Requires PHP: 5.7
+Version: 
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: m
+Tags: 
+*/
+
+
+
+/* Dark styles */
+.theme-dark body {
+    --wp--preset--color--theme-1: var(--wp--preset--color--custom-theme-1-dark, var(--wp--custom--color--theme-1-dark));
+    --wp--preset--color--theme-2: var(--wp--preset--color--custom-theme-2-dark, var(--wp--custom--color--theme-2-dark));
+    --wp--preset--color--theme-3: var(--wp--preset--color--custom-theme-3-dark, var(--wp--custom--color--theme-3-dark));
+    --wp--preset--color--theme-4: var(--wp--preset--color--custom-theme-4-dark, var(--wp--custom--color--theme-4-dark));
+    --wp--preset--color--theme-5: var(--wp--preset--color--custom-theme-5-dark, var(--wp--custom--color--theme-5-dark));
+    --wp--preset--color--theme-6: var(--wp--preset--color--custom-theme-6-dark, var(--wp--custom--color--theme-6-dark));
+}
+
