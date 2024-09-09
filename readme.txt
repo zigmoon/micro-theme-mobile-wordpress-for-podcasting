@@ -17,8 +17,8 @@ https://zigmoon.com/podinvader.WordPress.xml
 READ change first page "all articles"
 
 
-5 install theme: 
-Download on github micro-wp-theme-podcasting-block.zip
+5 Install this mobile theme: 
+Download directly on Github > micro-wp-theme-podcasting-block.zip
 
 
 
