@@ -1,27 +1,19 @@
-Mobile First Wordpress Theme for Podcaster (Gutenberg Block Editor)
-
+== Mobile First Wordpress Theme for Podcaster (Gutenberg Block Editor) == 
 
 1 Install wordpress.org (last version)
 https://wordpress.org/download/
 
-
 2 Install plugin: Seriously Simple Podcasting
 https://fr.wordpress.org/plugins/seriously-simple-podcasting/
-
 
 3 Install test content in your wordpress: 
 https://zigmoon.com/podinvader.WordPress.xml
 
-
 4 Go on your Worpdress "Settting":
 READ change first page "all articles"
 
-
 5 Install this mobile theme: 
 Download directly on Github > micro-wp-theme-podcasting-block.zip
-
-
-
 
 
 == micro-theme-mobile-wordpress-for-podcasting ==
