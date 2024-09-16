@@ -1,4 +1,4 @@
-# Mobile First Wordpress Theme for Podcaster (Gutenberg Block Editor) == 
+#Mobile First Wordpress Theme for Podcaster (Gutenberg Block Editor)
 
 1 Install wordpress.org (last version)
 https://wordpress.org/download/
